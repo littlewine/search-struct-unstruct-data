@@ -1,0 +1,96 @@
+lsi_counts500.mod
+Validation
+P_5                   	all	0.1800
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1853
+map_cut_1000          	all	0.1212
+Test
+P_5                   	all	0.1500
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1420
+map_cut_1000          	all	0.0831
+
+lsi_counts300.mod
+Validation
+P_5                   	all	0.1467
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1664
+map_cut_1000          	all	0.1166
+Test
+P_5                   	all	0.1550
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1439
+map_cut_1000          	all	0.0816
+
+lsi_counts250.mod
+Validation
+P_5                   	all	0.1533
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1533
+map_cut_1000          	all	0.1114
+Test
+P_5                   	all	0.1500
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1486
+map_cut_1000          	all	0.0826
+
+lsi_counts200.mod
+Validation
+P_5                   	all	0.1533
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1431
+map_cut_1000          	all	0.1080
+Test
+P_5                   	all	0.1533
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1401
+map_cut_1000          	all	0.0765
+
+lsi_counts150.mod
+Validation
+P_5                   	all	0.1533
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1484
+map_cut_1000          	all	0.1046
+Test
+P_5                   	all	0.1367
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1317
+map_cut_1000          	all	0.0717
+
+lsi_counts100.mod
+Validation
+P_5                   	all	0.1667
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1496
+map_cut_1000          	all	0.1000
+Test
+P_5                   	all	0.1250
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1230
+map_cut_1000          	all	0.0678
+
+lsi_counts50.mod
+Validation
+P_5                   	all	0.1333
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1136
+map_cut_1000          	all	0.0849
+Test
+P_5                   	all	0.1167
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1186
+map_cut_1000          	all	0.0637
+
+
+lsi_counts10.mod
+Validation
+P_5                   	all	0.1267
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1216
+map_cut_1000          	all	0.0798
+Test
+P_5                   	all	0.0533
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.0513
+map_cut_1000          	all	0.0436

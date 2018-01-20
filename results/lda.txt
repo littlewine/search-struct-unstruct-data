@@ -1,0 +1,36 @@
+lda100
+Validation
+P_5                   	all	0.1200
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1280
+map_cut_1000          	all	0.0707
+Test
+P_5                   	all	0.1033
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1143
+map_cut_1000          	all	0.0454
+
+
+lda_50
+Validation
+P_5                   	all	0.1467
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1478
+map_cut_1000          	all	0.1136
+Test
+P_5                   	all	0.1217
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1296
+map_cut_1000          	all	0.0800
+
+lda_50_alpha=auto
+Validation
+P_5                   	all	0.1933
+recall_1000           	all	0.5766
+ndcg_cut_10           	all	0.1864
+map_cut_1000          	all	0.1061
+Test
+P_5                   	all	0.1367
+recall_1000           	all	0.5352
+ndcg_cut_10           	all	0.1287
+map_cut_1000          	all	0.0797
