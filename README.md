@@ -1,8 +1,6 @@
 # search-struct-unstruct-data
 Repo for course Searching in structured and unstructured data, UvA D.S. track
 
-
-
 Instructions to run the code:
 
 Create the following folders: 
