@@ -1,5 +1,6 @@
-# search-struct-unstruct-data
-Repo for course Searching in structured and unstructured data, UvA D.S. track
+# Information Retrieval with Pyndri in Python
+Repo for the course 'Searching in structured and unstructured data' (Information Retrieval 1)
+MSc. Data Science from the University of Amsterdam
 
 Instructions to run the code:
 
